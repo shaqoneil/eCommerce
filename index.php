@@ -57,6 +57,7 @@ add_to_cart();
                         <button type="submit" name="search" value="Search"><i class="fas fa-search"></i></button>
                     </form>
                 </div>
+                    <!--This section is for development -->
                 <div class="sidebar_section promo_section">
                     <h3><i class="fas fa-tags"></i> Special Offers</h3>
                     <ul class="sidebar_list">
@@ -66,6 +67,7 @@ add_to_cart();
                         <li><a href="#">Gift Cards</a></li>
                     </ul>
                 </div>
+                    <!--This section is for development -->
                 <div class="sidebar_section customer_service">
                     <h3><i class="fas fa-headset"></i> Need Help?</h3>
                     <ul class="sidebar_list">
