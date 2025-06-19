@@ -71,7 +71,7 @@ if (!isset($con)) {
                     <ul class="sidebar_list">
                         <li><a href="#">Daily Deals <span class="badge hot">HOT!</span></a></li>
                         <li><a href="#">Clearance Sale</a></li>
-                        <li><a href="#">New Arrivals</a></li>
+                        <li><a href="#">New Products</a></li>
                         <li><a href="#">Gift Cards</a></li>
                     </ul>
                 </div>
